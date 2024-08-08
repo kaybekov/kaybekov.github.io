@@ -14,7 +14,7 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/kaybekov",
+      url: "https://github.com/kayumbekov",
     },
     {
       image: "fa-instagram",
@@ -64,9 +64,9 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "kaybekov", //i.e."johnDoe12Gh"
+  gitHubUsername: "kayumbekov", //i.e."johnDoe12Gh"
   reposLength: 2,
-  specificRepos: ["Create-Spotify-Playlist","Expenses-React-App","kaybekov.github.io","deploying-a-static-site-with-netlify-sample"],
+  specificRepos: ["Create-Spotify-Playlist","Expenses-React-App","kayumbekov.github.io","deploying-a-static-site-with-netlify-sample"],
 };
 
 // Leadership SECTION
