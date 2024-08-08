@@ -10,7 +10,7 @@ const mainBody = {
   middleName: "",
   lastName: "Bekov",
   message:
-    "My passion for technology drives me to actively engage with the elements that shape the world and contribute to its evolution through software development.",
+    "Stay Hungry, Stay foolish",
   icons: [
     {
       image: "fa-github",
