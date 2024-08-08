@@ -66,7 +66,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "kayumbekov", //i.e."johnDoe12Gh"
   reposLength: 2,
-  specificRepos: ["Create-Spotify-Playlist","Expenses-React-App","kayumbekov.github.io","deploying-a-static-site-with-netlify-sample"],
+  specificRepos: ["Create-Spotify-Playlist","Expenses-React-App","portfolio","deploying-a-static-site-with-netlify-sample"],
 };
 
 // Leadership SECTION
