@@ -65,7 +65,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "kayumbekov", //i.e."johnDoe12Gh"
-  reposLength: 6,
+  reposLength: 0,
   specificRepos: ["Create-Spotify-Playlist","Expenses-React-App","portfolio","deploying-a-static-site-with-netlify-sample"],
 };
 
