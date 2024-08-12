@@ -48,10 +48,10 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
           )}
         </div>
         <div className={`col-lg-${showPic ? "7" : "12"}`}>
-          <h2 className="display-4 mb-5 text-center">{heading}</h2>
-          <p className="lead text-center">{message}</p>
+          <h2 className="display-4 mb-5 text-center custom-heading">{heading}</h2>
+          <p className="lead text-center custom-about-text-location">{message}</p>
           {resume && (
-            <p className="lead text-center">
+            <p className="lead text-center custom-about-text">
               <a
                 className="btn btn-outline-dark btn-lg"
                 href={resume}

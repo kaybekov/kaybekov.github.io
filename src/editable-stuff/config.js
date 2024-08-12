@@ -49,7 +49,7 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/kaybekov.png"),
-  imageSize: 385,
+  imageSize: 350,
   message:
     "Hello, my name is Kayum Bekov and I am a software engineer. I have always been interested in technology and have taught myself a variety of frontend development skills, including HTML, CSS, JavaScript, React.js, Redux, Git. My passion for technology and drive to continuously learn and improve my skills has led me to this field. I have completed several personal projects using these technologies, including a responsive website and an interactive web application for a course project.",
   resume:

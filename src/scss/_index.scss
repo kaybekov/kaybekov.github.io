@@ -132,3 +132,48 @@ code {
 .custom-img {
   margin-left: -100px; /* Adjust the value as needed */
 }
+.rounded-circle {
+  border-radius: 10% !important;
+  width: fit-content;
+}
+
+.border-secondary {
+  --bs-border-opacity: 0;
+  border-color: rgba(var(--bs-secondary-rgb), var(--bs-border-opacity)) !important;
+}
+// .col-lg-7 {
+  
+//   margin-right: -1000px;
+// }
+// @media (min-width: 992px) {
+//   .col-lg-7 {
+//       margin-right: -0px;
+//       flex: 0 0 auto;
+//       width: 58.33333333%;
+//   }
+// }
+
+// .row > * {
+//   margin-right: -100px;
+//   // flex-shrink: 0;
+//   // width: 100%;
+//   // max-width: 100%;
+//   // padding-right: calc(var(--bs-gutter-x)* 0.5);
+//   // padding-left: calc(var(--bs-gutter-x)* 0.5);
+//   // /* margin-top: var(--bs-gutter-y); */
+// }
+
+// .text-center{
+//   // width: fit-content;
+//   margin-left: -100px;
+//
+.custom-heading {
+  margin-left: -150px; /* Adjust this value to move the text */
+  text-align: center; /* Ensure it stays centered with a slight shift */
+}
+.custom-heading{ margin-left: -150px; /* Adjust this value to move the text */
+  text-align: center;}
+.custom-about-text{ margin-left: -150px; /* Adjust this value to move the text */
+  text-align: center;}
+.custom-about-text-location{ margin-left: -150px; /* Adjust this value to move the text */
+  text-align: center;}  
