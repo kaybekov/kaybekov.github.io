@@ -51,7 +51,7 @@ const about = {
   imageLink: require("../editable-stuff/kaybekov.png"),
   imageSize: 350,
   message:
-    "Hello, my name is Kayum Bekov and I am a software engineer. I have always been interested in technology and have taught myself a variety of frontend development skills, including HTML, CSS, JavaScript, React.js, Redux, Git. My passion for technology and drive to continuously learn and improve my skills has led me to this field. I have completed several personal projects using these technologies, including a responsive website and an interactive web application for a course project.",
+    "Hello, my name is Kayum Bekov and I am a software engineer currently studying at 42 Heilbronn. I have always been interested in web-development and have taught myself a variety of frontend development skills, including HTML, CSS, JavaScript, React.js, Redux, Git. I have completed several personal projects using these technologies, including a responsive website and an interactive web application for a course project.",
   resume:
     "https://docs.google.com/document/d/1g3vZjcmu-S09IPxURjQkvbibCb5LCYak/edit?usp=share_link&ouid=103959848321197071147&rtpof=true&sd=true",
 };
@@ -66,7 +66,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "kayumbekov", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["Create-Spotify-Playlist","Expenses-React-App","portfolio","deploying-a-static-site-with-netlify-sample"],
+  specificRepos: ["Create-Spotify-Playlist","Expenses-React-App","deploying-a-static-site-with-netlify-sample", "portfolio"],
 };
 
 // Leadership SECTION
