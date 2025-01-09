@@ -26,7 +26,7 @@ const mainBody = {
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/kaybekov/",
+      url: "https://www.twitter.com/sapgascs2/",
     },
   ],
 };
